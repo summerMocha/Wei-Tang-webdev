@@ -1,8 +1,5 @@
-# web-dev-template
+My name is Wei Tang. I am a graduate student at Northeastern University and major in Media Innovation in Journalism school.
 
-1. git clone https://github.com/jannunzi/web-dev-template.git
-1. cd web-dev-template
-1. npm install
-1. mongod
-1. node server.js
-1. browse to localhost:3000
+The purpose of repository:  Webdev assignment1
+Create links to the following
+Root to the hosted environment on Heroku (or AWS, or OpenShift)
